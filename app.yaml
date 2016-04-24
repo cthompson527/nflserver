@@ -3,9 +3,9 @@ vm: true
 
 env_variables:
   # --REQUIRED--
-  DATABASE_URI: mongodb://localhost:27017/dev
-  APP_ID: <your-app-id>
-  MASTER_KEY: <your-master-key>
+  DATABASE_URI: mongodb://heroku_v9j1d6n3:3ae36dipjee5tj3d8pimavun0p@ds059125.mlab.com:59125/heroku_v9j1d6n3
+  APP_ID: NFLPredictor
+  MASTER_KEY: asdf;josdjpiou1293847098fuas;lkjahtheuaosdijzxc
   # --OPTIONAL--
   # FILE_KEY: <your-file-key>
   # PARSE_MOUNT: /parse
